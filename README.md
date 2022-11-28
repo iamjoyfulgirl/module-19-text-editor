@@ -26,7 +26,11 @@ This is a progressive web application (PWA) which is a text editor. This applica
 
 ## Installation
 
-`npm run start`
+In the terminal run the following commands:
+
+- `npm run install`
+- `npm run build`
+- `npm run start`
 
 ## Usage
 
