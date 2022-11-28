@@ -32,6 +32,24 @@ This is a progressive web application (PWA) which is a text editor. This applica
 
 Use this just like any text editor
 
+## Screenshots of Application
+
+### App in Browser:
+
+![in browser](./Assets/JATE%20web%20app%20in%20browser.png)
+
+### Install Prompt:
+
+![install prompt](./Assets/JATE%20install%20prompt.png)
+
+### Installed App Icon on Desktop:
+
+![install icon](./Assets/Installed%20apps%20icon%20on%20desktop.png)
+
+### Installed PWA App:
+
+![PWA](./Assets/PWA%20installed%20app.png)
+
 # Acceptance Criteria
 
 ```md
