@@ -1,7 +1,7 @@
 {
   "name": "JATE",
   "version": "1.0.0",
-  "description": "A PWA Text Editor",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "npm run build && cd server && node server.js",
@@ -11,7 +11,7 @@
     "build": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "Sherri Knight",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
